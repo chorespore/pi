@@ -1,0 +1,1 @@
+sudo mount -t cifs //192.168.31.95/Movies /home/linaro/share -o user=default,pass=default

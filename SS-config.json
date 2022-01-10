@@ -1,0 +1,12 @@
+{
+    "server":"176.122.165.26",
+    "server_port":31415,
+    "local_address": "127.0.0.1",
+    "local_port":1080,
+    "password":"sunsun314",
+    "timeout":300,
+    "method":"aes-256-ctr",
+    "fast_open": false,
+    "workers": 1,
+    "prefer_ipv6": false
+}
